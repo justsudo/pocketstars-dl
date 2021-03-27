@@ -21,12 +21,13 @@ You'll notice that there's an `auth.json` file in the main directory. You're goi
 
 ```json
 {
-    "auth":
+    "auth": {
         "cookies": {
             "session": "",
             "session.sig": ""
         },
         "user_agent": ""
+    }
 }
 ```
 
