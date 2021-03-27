@@ -15,7 +15,7 @@ First run the following at the command line:
 
 ## Prerequisites
 
-To be able to use this, you're going to need to get a couple bits of information through your PocketStars account. It might seem a little daunting at first but it's really not that bad. If you're familiar with DIGITALCRIMINAL's OnlyFans program, you'll recognize it's nothing new.
+To be able to use this, you're going to need to get a couple bits of information through your PocketStars account. It might seem a little daunting at first but it's really not that bad. If you're familiar with [DIGITALCRIMINAL's OnlyFans program](https://github.com/DIGITALCRIMINAL/OnlyFans), you'll recognize it's nothing new.
 
 You'll notice that there's an `auth.json` file in the main directory. You're going to need to fill it out:
 
