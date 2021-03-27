@@ -2,6 +2,7 @@
 
 A Python program for downloading content from your favorite creators on PocketStars.
 
+<img src="https://raw.githubusercontent.com/Amenly/pocketstars-dl/main/media/terminal.png" width="600">
 
 ## Installation
 
